@@ -1,2 +1,1 @@
-CapsLock::Send {Backspace}
-~::Send {Enter}
+MsgBos "Hello, world"
