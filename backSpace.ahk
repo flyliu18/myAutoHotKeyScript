@@ -1,1 +1,1 @@
-CapsLoc::Send {Backspace}
+CapsLock::Send {Backspace}
