@@ -1,1 +1,2 @@
 CapsLock::Backspace
+~::Enter
