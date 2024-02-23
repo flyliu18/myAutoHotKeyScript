@@ -1,1 +1,1 @@
-MsgBox "Hello, world"
+CapsLoc::Send {Backspace}
